@@ -47,15 +47,6 @@
 
 <br>
 
-## :pencil2: 팀원 소개
-
-![d](https://user-images.githubusercontent.com/19389288/89607563-ce482d80-d8ad-11ea-9388-333415bca6cd.PNG)
-
-![gg](https://user-images.githubusercontent.com/19389288/89607591-da33ef80-d8ad-11ea-848d-fdedc97c7dfd.PNG)
-
-
-
-<br>
 
 
 
